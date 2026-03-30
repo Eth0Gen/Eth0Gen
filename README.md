@@ -7,17 +7,17 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 
-- 🐍 I work with **Python** and love it
-- 🤖 Exploring the world of **AI & Machine Learning**
-- 🌐 Dipping my toes into **Web Development**
-- 📚 Always learning, always building
-- 💬 Ask me about anything Python!
+-  I work with **Python** and love it
+-  Exploring the world of **AI & Machine Learning**
+-  Dipping my toes into **Web Development**
+-  Always learning, always building
+-  Ask me about anything Python!
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eth0Gen&show_icons=true&theme=tokyonight" width="48%"/>
